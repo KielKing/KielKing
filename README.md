@@ -7,7 +7,8 @@
 - :book: &nbsp; Self-learner.
 - :briefcase: &nbsp; Working smarter not harder.
 
-<h3> 🛠 &nbsp;Tech I have used</h3>
+<!-- TODO: In progress -->
+<!-- <h3> 🛠 &nbsp;Tech I have used</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -39,7 +40,7 @@
   ![Intellij Idea](https://img.shields.io/badge/-Intellij_Idea-333333?style=flat&logo=intellijidea&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) -->
  
 <br/>
 
