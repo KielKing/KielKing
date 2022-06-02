@@ -45,8 +45,8 @@
 <br/>
 
 <a href="https://github.com/kielking">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kielking&theme=buefy&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielking&theme=buefy&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kielking&theme=vision-friendly-dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielking&theme=vision-friendly-dark&layout=compact"/>
 </a>
 
 <br/>
