@@ -3,7 +3,7 @@
 </div>
 
 
-<h3> :crown: &nbsp;About</h3>
+<h2> :crown: &nbsp;About</h2>
 
 - :sunglasses: &nbsp; Passionate about programming and always learning new things.
 - :book: &nbsp; Self-learner.
@@ -52,5 +52,8 @@
 </a>
 
 <br/>
+<br />
 
-Made with :heart: [kielking](https://github.com/kielking)
+<div align="center">
+  Made with :heart: [kielking](https://github.com/kielking)
+</div>
