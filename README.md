@@ -55,5 +55,5 @@
 <br />
 
 <div align="center">
-  Made with :heart: ![kielking](https://github.com/kielking)
+  Made with :heart: <a href="https://github.com/kielking">kielking</a>
 </div>
