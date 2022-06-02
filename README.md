@@ -1,4 +1,6 @@
-<h2>Salutations, from kielking.</h2>
+<div align="center">
+  <h2>Salutations, from kielking.</h2>
+</div>
 
 
 <h3> :crown: &nbsp;About</h3>
